@@ -230,7 +230,7 @@ body {
 }
 
 /* Navigation */
-.navigation {
+/* .navigation {
     position: fixed;
     bottom: 2rem;
     left: 50%;
@@ -258,7 +258,7 @@ body {
     background: #667eea;
     transform: scale(1.3);
     box-shadow: 0 0 20px #667eea;
-}
+} */
 
 .keyboard-hint {
     position: fixed;
@@ -384,7 +384,7 @@ body {
         height: auto;
     }
     
-    .navigation {
+    /* .navigation {
         position: fixed;
         bottom: 1rem;
         padding: 0.8rem 1.5rem;
@@ -395,5 +395,5 @@ body {
         padding: 0.4rem 0.8rem;
         top: 1rem;
         right: 1rem;
-    }
+    } */
 }
